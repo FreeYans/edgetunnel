@@ -1,11 +1,12 @@
 ------
 uuid生成：https://1024tools.com/uuid
 
+UUID 替换 src里面 userid 
 
 ip查看：https://whatismyipaddress.com/
 
 cf ip优选；https://stock.hostmonit.com/CloudFlareYes
-
+选择网速快的ip，替换 vmess里面的地址 
 网络测速：https://www.speedtest.net/result/14952074175
 
 openclash转换订阅网址：https://sub-web.netlify.app/
@@ -16,6 +17,7 @@ Custom Domains查看——添加自定义域——填1个二级域名
 
 
 点击自定义域，在二级域名后加/UUID，就能看到VLESS节点URL和Clash-meta配置
+
 在v2rayN导入URL，地址栏改为优选ip
 
 2.无域名（没tls加密，80或者2052端口）
